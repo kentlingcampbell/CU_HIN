@@ -8,9 +8,14 @@ import scipy.sparse as sp
 import time
 
 
-def checkPrune():
+def checkPrune(IPD):
+#    dict1 = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+#    key_to_lookup = 'a'
+#    if key_to_lookup in dict1:
+#        print("Key exists")
+#    else:
+#        print("Key does not exist")
     pass
-
 
 def main():
 

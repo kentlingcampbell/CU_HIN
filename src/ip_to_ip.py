@@ -8,6 +8,10 @@ import scipy.sparse as sp
 import time
 
 
+def checkPrune():
+    pass
+
+
 def main():
 
     # Process command line arguments
